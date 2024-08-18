@@ -14,7 +14,7 @@ This project is a simple roll dice game created using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can view a live demo of the game (https://dice-roll-wine.vercel.app/)(#).
+You can view a live demo of the game (https://dice-roll-wine.vercel.app/).
 
 ## Features
 
